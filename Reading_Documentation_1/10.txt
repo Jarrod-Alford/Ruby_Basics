@@ -1,0 +1,2 @@
+::path returns a string representation of the file's path, i.e. "/dev/null"
+#path returns a string representation of the pathname used to create the file without normalizing it, i.e. "/tmp/../tmp/xxx"

@@ -1,0 +1,7 @@
+It will print:
+
+Dinner
+Breakfast
+
+since 'Dinner' is printed by the puts statement in the method and Breakfast is returned by the method and printed by the puts statement outside the method.
+

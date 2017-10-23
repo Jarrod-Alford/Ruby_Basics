@@ -1,0 +1,1 @@
+It will print "My favorite number is 7." since any expression except false and nil will evaluate to true when used in a conditional.

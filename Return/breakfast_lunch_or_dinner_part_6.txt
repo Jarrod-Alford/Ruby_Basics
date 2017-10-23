@@ -1,0 +1,5 @@
+It will print:
+
+Breakfast
+
+since the method ends after the return statement, so the last two lines never run.

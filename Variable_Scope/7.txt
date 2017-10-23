@@ -1,0 +1,1 @@
+The code will print 3. The each method does not invoke a new layer of abstraction, i.e., a new scope, so the value of a is overridden each time the each statement is called. On the final iteration, a is set to 3, which is what prints.

@@ -1,0 +1,1 @@
+The code will print "Xy-zy" because an array functions essentially as a pointer, and the method changes the value pointed to be the address two bits away from the address saved by b, which is the same address saved by a.

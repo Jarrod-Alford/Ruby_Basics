@@ -1,0 +1,1 @@
+The code prints 7 because the method my_value does not modify the caller. The addition of 10 only applies to the local variable within the method.

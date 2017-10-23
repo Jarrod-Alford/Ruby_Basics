@@ -1,0 +1,7 @@
+It will print:
+
+Dinner
+nil
+
+since Dinner is putsed within the method, and the p statement prints the return value of meal, which is the return value of the last line, which is a puts, which returns nil.
+

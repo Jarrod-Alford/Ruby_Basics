@@ -1,0 +1,10 @@
+It will print:
+
+0
+1
+2
+3
+4
+10
+
+since .times assigns the value of each iteration to the vaiable sheep, starting with 0, up to 4, and then the last line of the method is what it will return, 10, which is what the puts outside the method will print.

@@ -1,0 +1,2 @@
+The code prints 7 because the method my_value does not modify the caller. The addition of 10 only applies to the local variable within the method.
+The way Ruby sees it, this does not differ from the last exercise because the two variables called a are different - one local to the variable and one outside.

@@ -1,0 +1,1 @@
+It will print 'Breakfast' since when a method is passed to puts, it will print what the method returns.

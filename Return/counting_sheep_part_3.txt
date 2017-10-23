@@ -1,0 +1,8 @@
+It will print:
+
+0
+1
+2
+nil
+
+since once sheep is 2, return is eveluated, ending the method and returning nil, which is what p will print.

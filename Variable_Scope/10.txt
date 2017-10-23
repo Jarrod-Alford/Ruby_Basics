@@ -1,0 +1,1 @@
+The code will print an error, since a is not initialized within the method definition, and the method attampts to modify it.

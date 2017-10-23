@@ -1,0 +1,2 @@
+It will print 'Breakfast' the return statement will return 'Breakfast" and end the method prior to running the line with 'Dinner'.
+

@@ -1,0 +1,3 @@
+4 is assigned to a, then 6 is assigned to d. Since 5 is left over, it is assigned to the left-most variable, b, and c takes on its default value of 3.
+
+So, it will print [4, 5, 3, 6]

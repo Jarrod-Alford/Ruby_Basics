@@ -1,0 +1,1 @@
+It will print 1 since 'number = 1' is the last line evaluated by the method (the else is not eveluated if the if's condition is true). The puts statement outside the method will print the method's return value.

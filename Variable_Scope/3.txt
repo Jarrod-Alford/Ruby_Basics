@@ -1,0 +1,1 @@
+The code will print 7. The a within the method is still local only to the method and does not affect the a outside the method.

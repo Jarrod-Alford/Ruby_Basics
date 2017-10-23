@@ -1,0 +1,2 @@
+.rjust
+Can specify how long to make the string and what to use to fill the empty space.

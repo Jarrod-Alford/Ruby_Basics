@@ -1,0 +1,1 @@
+From the "Numbers" section in the literals.rdoc file, numbers may be written with any of the digits separated by underscores, and it will not change the value of the number, so that 10000000 may be written as 10_000_000.
